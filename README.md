@@ -19,10 +19,17 @@ It uses **Google OR-Tools (`pywraplp`)** to **maximize or minimize** nutrient in
 - **Excel** (data storage & analysis)  
 
 ---
-
-## 📂 Project Structure  
-📁 fast-food-optimization ├── 📂 data # Nutritional dataset & results │ ├── FastFoodNutritionMenuV3.xlsx │ ├── 📂 notebooks # Optimization notebooks │ ├── Feria_Ingenieria_Final.ipynb │ ├── FeriaIngenieriaTotal.ipynb │ ├── 📄 README.md # Project documentation ├── 📄 requirements.txt # Python dependencies
-
+📁 fast-food-optimization
+ ├── 📂 data                # Nutritional dataset
+ │   ├── FastFoodNutritionMenuV3.xlsx
+ │   ├── App.xlsx
+ │
+ ├── 📂 notebooks           # Jupyter Notebooks for optimization
+ │   ├── Feria_Ingenieria_Final.ipynb
+ │   ├── FeriaIngenieriaTotal.ipynb
+ │
+ ├── 📄 README.md           # Project documentation
+ ├── 📄 requirements.txt     # Python dependencies
 
 ---
 
