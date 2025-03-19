@@ -22,7 +22,6 @@ It uses **Google OR-Tools (`pywraplp`)** to **maximize or minimize** nutrient in
 📁 fast-food-optimization
  ├── 📂 data                # Nutritional dataset
  │   ├── FastFoodNutritionMenuV3.xlsx
- │   ├── App.xlsx
  │
  ├── 📂 notebooks           # Jupyter Notebooks for optimization
  │   ├── Feria_Ingenieria_Final.ipynb
@@ -30,6 +29,8 @@ It uses **Google OR-Tools (`pywraplp`)** to **maximize or minimize** nutrient in
  │
  ├── 📄 README.md           # Project documentation
  ├── 📄 requirements.txt     # Python dependencies
+
+ │   ├── App.xlsx -> Prototype
 
 ---
 
