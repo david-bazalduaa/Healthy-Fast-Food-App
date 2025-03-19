@@ -8,7 +8,7 @@ It uses **Google OR-Tools (`pywraplp`)** to **maximize or minimize** nutrient in
 📊 **Key Features:**  
 ✔️ **Optimizes macronutrients** (Protein, Carbs, Fats, Sugars) based on user input.  
 ✔️ **Uses Google OR-Tools (`pywraplp`)** to find the best meal combination.  
-✔️ **Includes Power BI visualizations** to analyze food nutrition data.  
+✔️ **Includes Excel prototype app visualizations** to analyze food nutrition data.  
 
 ---
 
