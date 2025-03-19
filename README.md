@@ -15,10 +15,19 @@ It uses **Google OR-Tools (`pywraplp`)** to **maximize or minimize** nutrient in
 ## 🛠️ Technologies Used  
 - **Python** (for data processing & optimization)  
 - **Google OR-Tools** (`pywraplp`) for linear programming  
-- **Pandas & NumPy** (data handling)  
-- **Power BI** (for visual insights)  
+- **Pandas & NumPy** (data handling)    
 - **Excel** (data storage & analysis)  
 
 ---
 
 ## 📂 Project Structure  
+📁 fast-food-optimization ├── 📂 data # Nutritional dataset & results │ ├── FastFoodNutritionMenuV3.xlsx │ ├── 📂 notebooks # Optimization notebooks │ ├── Feria_Ingenieria_Final.ipynb │ ├── FeriaIngenieriaTotal.ipynb │ ├── 📄 README.md # Project documentation ├── 📄 requirements.txt # Python dependencies
+
+
+---
+
+## ⚡ Installation  
+1️⃣ **Clone the Repository**  
+```bash
+git clone https://github.com/yourusername/fast-food-optimization.git
+cd fast-food-optimization
